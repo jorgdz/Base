@@ -67,11 +67,11 @@
 			<scope>test</scope>
 		</dependency>
 		
-		<!-- https://mvnrepository.com/artifact/com.google.cloud/google-cloud-storage -->
+		<!-- https://mvnrepository.com/artifact/com.google.firebase/firebase-admin -->
 		<dependency>
-		    <groupId>com.google.cloud</groupId>
-		    <artifactId>google-cloud-storage</artifactId>
-		    <version>1.113.6</version>
+			<groupId>com.google.firebase</groupId>
+			<artifactId>firebase-admin</artifactId>
+			<version>6.14.0</version>
 		</dependency>
 		
 		<dependency>
