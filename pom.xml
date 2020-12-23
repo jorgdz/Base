@@ -9,11 +9,11 @@
 		<version>2.4.1</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
+	<groupId>ec.edu.istb</groupId>
 	<artifactId>demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Base</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Proyecto titulación</description>
 
 	<properties>
 		<java.version>11</java.version>
